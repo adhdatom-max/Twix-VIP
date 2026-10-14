@@ -1,0 +1,16 @@
+{
+  "name": "@twix/connect-vip",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "TWIX browser-aware wallet adapter",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
